@@ -1,13 +1,13 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "✪➢Sedang Di Proses Kidz...",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "Iv": "✪➢Link Yang Kamu Berikan Tidak Valid Kidz",
+        "api": "✪➢Maaf Terjadi Kesalahan Kidz"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "Perintah Ini Hanya Bisa Digunakan Di Group Kidz",
+    "OnlyPM": "Perintah Ini Hanya Bisa Digunakan Di Private Message Kidz",
+    "GrupAdmin": "Perintah Ini Hanya Bisa Digunakan Oleh Admin Group Kidz",
+    "BotAdmin": "Bot Harus Menjadi Admin Kidz",
+    "OnlyOwner": "Perintah Ini Hanya Dapat Digunakan Oleh Owner Bot Kidz",
+    "OnlyPrem": "Perintah Ini Khusus Member Premium Kidz"
 }
