@@ -71,7 +71,7 @@ ${mundur}
  • ${prefix}translate${petik}
 
 *ANONYMOUS CHATS*${petik}
-• ${prefix}menfess nama|62xxx|pesan
+ • ${prefix}menfess nama|62xxx|pesan
  • ${prefix}anonymous
  • ${prefix}start
  • ${prefix}next
